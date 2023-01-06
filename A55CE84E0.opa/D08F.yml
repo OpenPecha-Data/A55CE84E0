@@ -1,0 +1,30 @@
+segment_sources:
+  I7621A32D:
+    type: origin_type
+    relation: translation
+    base: A54D
+    lang: en
+  I191D6C8A:
+    type: origin_type
+    relation: translation
+    base: 938A
+    lang: bo
+segment_pairs:
+  5d4272cc2ae1419e80c3048a9380f986:
+    I7621A32D: 8244ca84a97f40a29837e48734025f11
+    I191D6C8A: f481859b939f433f8120f9b3227ce618
+  a1dc2466598d42f1a1ee06b0d3fec792:
+    I7621A32D: ec0e029d34264acb9f558204da4dea43
+    I191D6C8A: 4d1892b5e580429eaabd89c34fbe528f
+  b8e7d1d3b950499198516cb9adb3338b:
+    I7621A32D: 8e407ea15e634f209ee2efe7bf02252f
+    I191D6C8A: fc4a9bd6b94049878aabf9e8aa1425b6
+  da9589973bec4699881a62f62b844457:
+    I7621A32D: 8c84042ea3304e63bc1ffcea5d248447
+    I191D6C8A: 09903a5d07104fc5a7441b76668fd0fc
+  37ab03fc4c2c47de994f3260cd621366:
+    I7621A32D: aca4b3d5b86a43aa89901fd5d02d4db7
+    I191D6C8A: 85b2177fed214983a15081800366de11
+  1ba8dd462fb34261a9359d2747788e02:
+    I7621A32D: d584d9641fb44c8f92f74e80a502ea37
+    I191D6C8A: 8df32c6bb5b24a509a88d83e51abf33d
